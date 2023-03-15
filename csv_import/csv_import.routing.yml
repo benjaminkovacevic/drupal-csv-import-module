@@ -1,0 +1,7 @@
+csv_import.hello:
+  path: '/csv-import'
+  defaults:
+    _form: '\Drupal\csv_import\Form\CSVImport'
+    _title: 'CSV Import Form'
+  requirements:
+    _access: 'TRUE'
