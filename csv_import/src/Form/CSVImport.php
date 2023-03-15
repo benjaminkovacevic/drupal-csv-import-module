@@ -94,17 +94,3 @@ class CSVImport extends FormBase {
 
 }
 
-
-// TASK;
-// Napraviti stranicu (Formu) preko koje ćeš importovati CSV fajl u kojem se nalaze sledeci podaci (naslov, tekst, slika, kategorija).
-// Kada se importuje fajl, potrebno je da se automatski naprave node-ovi sa sadrzajem iz CSV fajla. U prilogu je CSV fajl. 
-// Obrati pažnju da kod druge vesti iz CSV fajla postoje 2 slike razdvojene sa | koje trebaju biti importovane.
-
-
-// 1. Get imported CSV file path
-// 2. Get CSV file content
-// 3. Parse the file
-// 4. Create nodes
-
-
-
