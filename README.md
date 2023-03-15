@@ -1,2 +1,2 @@
 # drupal-csv-import-module
-Importing News from .csv file to Drupal website
+Drupal module to import news from .csv file
